@@ -26,7 +26,6 @@
 name: Joseph Eblin
 username: JB293
 role: Web Developer & DevSecOps Enthusiast
-location: Côte d'Ivoire 🇨🇮
 interests:
   - Backend Development
   - Application Security
@@ -80,26 +79,7 @@ I believe that great software isn't just about writing code. It's about building
 - Docker containers and CI/CD fundamentals.
 - Secure development practices and DevSecOps concepts.
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=JB293&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&icon_color=06b6d4&text_color=e2e8f0&border_radius=12" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JB293&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&text_color=e2e8f0&border_radius=12" alt="Top languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=JB293&theme=tokyonight&hide_border=true&background=0f172a&ring=06b6d4&fire=22d3ee&currStreakLabel=22d3ee&border_radius=12" alt="GitHub streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JB293&theme=react-dark&bg_color=0f172a&color=22d3ee&line=06b6d4&point=ffffff&area=true&area_color=0369a1&hide_border=true" width="100%" alt="Activity graph"/>
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
