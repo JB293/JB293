@@ -146,19 +146,6 @@ A space for experimenting with the tools and practices behind modern software de
 
 ---
 
-## 📊 GitHub Insights
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=JB293&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JB293&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
-
-<img width="95%" src="https://streak-stats.demolab.com?user=JB293&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
----
 
 ## 🎯 My Roadmap
 
