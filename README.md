@@ -1,10 +1,14 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:06b6d4&height=220&section=header&text=Joseph%20Eblin&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20DevSecOps%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="Joseph Eblin profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:0369a1,100:06b6d4&height=240&section=header&text=Joseph%20Eblin&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Developer%20%7C%20DevSecOps%20Enthusiast&descAlignY=62&descSize=18" width="100%" alt="Joseph Eblin profile banner"/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="70" alt="Waving hand"/>
 
 <a href="https://github.com/JB293">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Software;Web+Development+%7C+DevSecOps;Backend+%7C+Cloud+%7C+Automation;Always+Learning.+Always+Building." alt="Animated introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&random=false&width=700&height=50&lines=Salut,+je+suis+Joseph+%F0%9F%91%8B;Building+Ideas+Into+Software;Web+Development+%7C+DevSecOps;Laravel+%7C+Vue+3+%7C+Inertia.js;Backend+%7C+Cloud+%7C+Automation;Always+Learning.+Always+Building." alt="Animated introduction"/>
 </a>
+
+<br/><br/>
 
 <p>
   <a href="https://github.com/JB293?tab=followers"><img src="https://img.shields.io/github/followers/JB293?style=for-the-badge&logo=github&label=Followers&color=0891b2" alt="Followers"/></a>
@@ -62,6 +66,10 @@ I believe that great software isn't just about writing code. It's about building
 
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github,aws,jenkins,bash,vscode" alt="DevOps tools"/>
 
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=600&color=A5F3FC&center=true&vCenter=true&width=600&lines=%3E+npm+run+build;%3E+php+artisan+serve;%3E+docker+compose+up+-d;%3E+git+push+origin+main;%3E+Deploy+successful+%E2%9C%85" alt="Terminal animation"/>
+
 </div>
 
 ### 🔐 Networking & Security
@@ -71,6 +79,41 @@ I believe that great software isn't just about writing code. It's about building
 - REST APIs, authentication and access control.
 - Docker containers and CI/CD fundamentals.
 - Secure development practices and DevSecOps concepts.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=JB293&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&icon_color=06b6d4&text_color=e2e8f0&border_radius=12" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JB293&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&text_color=e2e8f0&border_radius=12" alt="Top languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=JB293&theme=tokyonight&hide_border=true&background=0f172a&ring=06b6d4&fire=22d3ee&currStreakLabel=22d3ee&border_radius=12" alt="GitHub streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JB293&theme=react-dark&bg_color=0f172a&color=22d3ee&line=06b6d4&point=ffffff&area=true&area_color=0369a1&hide_border=true" width="100%" alt="Activity graph"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JB293/JB293/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JB293/JB293/output/github-snake.svg"/>
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/JB293/JB293/output/github-snake-dark.svg"/>
+</picture>
+
+</div>
+
+> 💡 Le serpent s'affiche après le premier lancement du workflow `.github/workflows/snake.yml` (voir plus bas).
 
 ---
 
@@ -146,6 +189,15 @@ A space for experimenting with the tools and practices behind modern software de
 
 ---
 
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JB293&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub trophies"/>
+
+</div>
+
+---
 
 ## 🎯 My Roadmap
 
@@ -156,6 +208,12 @@ A space for experimenting with the tools and practices behind modern software de
 - [ ] Integrate security checks into development workflows.
 - [ ] Deepen cloud infrastructure and deployment knowledge.
 - [ ] Build production-ready DevSecOps projects.
+
+<div align="center">
+
+<img src="https://progress-bar.xyz/45/?title=DevSecOps%20Journey&width=400&color=06b6d4&suffix=%25" alt="DevSecOps progress"/>
+
+</div>
 
 ---
 
@@ -171,10 +229,12 @@ I'm interested in connecting with developers, learning from experienced engineer
 
 <br/><br/>
 
-**💻 Code with purpose. 🔐 Secure by design. ⚙️ Automate everything.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Code+with+purpose.;%F0%9F%94%90+Secure+by+design.;%E2%9A%99%EF%B8%8F+Automate+everything.;%F0%9F%9A%80+Let's+build+something+awesome!" alt="Closing tagline"/>
 
-*Thanks for stopping by my profile. Let's build something awesome!*
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0369a1,100:0f172a&height=110&section=footer" width="100%" alt="Footer banner"/>
+*Thanks for stopping by my profile.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0369a1,100:0f172a&height=120&section=footer&animation=twinkling" width="100%" alt="Footer banner"/>
 
 </div>
