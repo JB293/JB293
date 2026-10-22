@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:0369a1,100:06b6d4&height=240&section=header&text=Joseph%20Eblin&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=D%C3%A9veloppeur%20%7C%20Passionn%C3%A9%20de%20DevSecOps&descAlignY=62&descSize=18" width="100%" alt="Bannière du profil de Joseph Eblin"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:075985,70:0891b2,100:22d3ee&height=260&section=header&text=Joseph%20Eblin&fontSize=62&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=D%C3%A9veloppement%20Web%20%E2%80%A2%20DevSecOps%20%E2%80%A2%20Automatisation&descAlignY=58&descSize=18" width="100%" alt="Bannière animée de Joseph Eblin"/>
 
 <br/><br/>
 
