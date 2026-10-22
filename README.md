@@ -26,7 +26,6 @@
 name: Joseph Eblin
 username: JB293
 role: Web Developer & DevSecOps Enthusiast
-location: Côte d'Ivoire 🇨🇮
 interests:
   - Backend Development
   - Application Security
@@ -76,7 +75,6 @@ I believe that great software isn't just about writing code. It's about building
 <td width="90"><img src="https://api.iconify.design/fa6-brands/node-js.svg?color=%2322d3ee" width="40" height="40" alt="Node.js"/><br/><sub>Node.js</sub></td>
 <td width="90"><img src="https://api.iconify.design/fa6-solid/server.svg?color=%2322d3ee" width="40" height="40" alt="Express"/><br/><sub>Express</sub></td>
 <td width="90"><img src="https://api.iconify.design/fa6-solid/database.svg?color=%2322d3ee" width="40" height="40" alt="MySQL"/><br/><sub>MySQL</sub></td>
-<td width="90"><img src="https://api.iconify.design/fa6-solid/leaf.svg?color=%2322d3ee" width="40" height="40" alt="MongoDB"/><br/><sub>MongoDB</sub></td>
 <td width="90"><img src="https://api.iconify.design/fa6-solid/table.svg?color=%2322d3ee" width="40" height="40" alt="SQLite"/><br/><sub>SQLite</sub></td>
 </tr>
 </table>
@@ -89,7 +87,6 @@ I believe that great software isn't just about writing code. It's about building
 <td width="90"><img src="https://api.iconify.design/fa6-brands/docker.svg?color=%2322d3ee" width="40" height="40" alt="Docker"/><br/><sub>Docker</sub></td>
 <td width="90"><img src="https://api.iconify.design/fa6-brands/git-alt.svg?color=%2322d3ee" width="40" height="40" alt="Git"/><br/><sub>Git</sub></td>
 <td width="90"><img src="https://api.iconify.design/fa6-brands/github.svg?color=%2322d3ee" width="40" height="40" alt="GitHub"/><br/><sub>GitHub</sub></td>
-<td width="90"><img src="https://api.iconify.design/fa6-brands/aws.svg?color=%2322d3ee" width="40" height="40" alt="AWS"/><br/><sub>AWS</sub></td>
 <td width="90"><img src="https://api.iconify.design/fa6-brands/jenkins.svg?color=%2322d3ee" width="40" height="40" alt="Jenkins"/><br/><sub>Jenkins</sub></td>
 <td width="90"><img src="https://api.iconify.design/fa6-solid/terminal.svg?color=%2322d3ee" width="40" height="40" alt="Bash"/><br/><sub>Bash</sub></td>
 <td width="90"><img src="https://api.iconify.design/fa6-solid/code.svg?color=%2322d3ee" width="40" height="40" alt="VS Code"/><br/><sub>VS Code</sub></td>
