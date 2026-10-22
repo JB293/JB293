@@ -2,18 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:0369a1,100:06b6d4&height=240&section=header&text=Joseph%20Eblin&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Developer%20%7C%20DevSecOps%20Enthusiast&descAlignY=62&descSize=18" width="100%" alt="Joseph Eblin profile banner"/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="70" alt="Waving hand"/>
-
-<a href="https://github.com/JB293">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&random=false&width=700&height=50&lines=Salut,+je+suis+Joseph+%F0%9F%91%8B;Building+Ideas+Into+Software;Web+Development+%7C+DevSecOps;Laravel+%7C+Vue+3+%7C+Inertia.js;Backend+%7C+Cloud+%7C+Automation;Always+Learning.+Always+Building." alt="Animated introduction"/>
-</a>
-
 <br/><br/>
 
 <p>
   <a href="https://github.com/JB293?tab=followers"><img src="https://img.shields.io/github/followers/JB293?style=for-the-badge&logo=github&label=Followers&color=0891b2" alt="Followers"/></a>
   <a href="https://github.com/JB293?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repositories-Explore-0e7490?style=for-the-badge&logo=github" alt="Repositories"/></a>
-  <img src="https://komarev.com/ghpvc/?username=JB293&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 </div>
