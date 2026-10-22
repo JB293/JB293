@@ -88,7 +88,7 @@ Je crois qu'un bon logiciel ne se résume pas à écrire du code. Il s'agit de c
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=600&color=A5F3FC&center=true&vCenter=true&width=600&lines=%3E+npm+run+build;%3E+php+artisan+serve;%3E+docker+compose+up+-d;%3E+git+push+origin+main;%3E+D%C3%A9ploiement+r%C3%A9ussi+%E2%9C%85" alt="Animation de terminal"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=600&color=A5F3FC&center=true&vCenter=true&width=600&lines=%3E+npm+run+build;%3E+php+artisan+serve;%3E+docker+compose+up+-d;%3E+git+push+origin+main;%3E+D%C3%A9ploiement+r%C3%A9ussi" alt="Animation de terminal"/>
 
 </div>
 
