@@ -79,7 +79,7 @@ I believe that great software isn't just about writing code. It's about building
 </tr>
 </table>
 
-### DevOps, Cloud & Tools
+### DevOps & Tools
 
 <table>
 <tr align="center">
